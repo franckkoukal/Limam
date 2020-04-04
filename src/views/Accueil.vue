@@ -10,7 +10,7 @@
 import Accueil from "@/components/Accueil.vue";
 
 export default {
-  name: "Home",
+  name: "Accueil",
   components: {
     Accueil
   }

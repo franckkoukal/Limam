@@ -21,6 +21,11 @@ Et dans de rare cas, nous nous déplaçons dans les différentes CAT pour des de
 <li>Augmentation du CA magasin car pose d’accéssoires</li></ul></p>
   </div>
 </template>
+<script>
+export default {
+  name: "APropos",
+};
+</script>
 <style lang="scss">
 .texte{
   width:500px;
